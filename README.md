@@ -26,10 +26,13 @@ Pandas
 ## Screenshot of final analysis
 ![image](https://user-images.githubusercontent.com/113924135/222968800-f72419da-4a95-4a76-bd7c-a3b288c32b7f.png)
 
-##Conclusions
+## Conclusions
 The analysis showed that the movie duration depends on genre of the movie. 
+
 The movie duration has not reduced with the years passing by.
+
 The movies that lie in the category of Children, documentaries and stand-up tend to have time duration below 150 minutes.
+
 The movies in the genre, dramas, action and comedy tend to have duration greater than 100 minutes.
 
 
